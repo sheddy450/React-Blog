@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "About",
+      "body": "\nI'm a skilled front-end developer and technical writer with a passion for creating elegant and intuitive user interfaces. With several years of experience in the industry, I have developed expertise in HTML, CSS, JavaScript, and various front-end frameworks such as React and Bootstrap.\n\nI am also a technical writer, with a knack for communicating different concepts in clear and concise language. I have created technical documentation for a variety of projects, ranging from user manuals and tutorials to developer guides and API documentation.\n\nWhen I'm not coding or writing, i enjoy keeping up with the latest trends in web development and technology, and always looking for new tools and techniques to improve my skills.\n\nI'm a team player who enjoys collaborating with other developers, designers, and writers to create exceptional products that meet the needs of both clients and end-users.",
+      "author": "Shedrach",
+      "id": 1
+    },
+    {
+      "title": "Technical Skill",
+      "body": "\n•\tHTML  5\n•\tCascading style sheet(CSS)\n•       Bootstrap\n•\tJavaScript\n•       React\n•        Technical Writing\n•\tRisk Assessment\n•\t Financial Market\n\n",
+      "author": "Shedrach",
+      "id": 2
+    },
+    {
+      "title": "Soft Skill",
+      "body": "•\tCrisis Management\n•\tLanguage Competencies\n•\tEffective Communication \n•\tInterpersonal Skill\n•\tTeamwork\n•\tTime Management\n",
+      "author": "Musa",
+      "id": 3
+    }
+  ]
+}
